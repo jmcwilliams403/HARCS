@@ -1,2 +1,2 @@
-# old-harcs
-old C++ method analysis toolkit
+# HARCS
+C++ method analysis toolkit
